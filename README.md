@@ -4,5 +4,5 @@ Senior Software Engineer with 8+ years of experience building full-stack applica
 
 I spend most of my non-working hours doing things other than coding, so its a little barren here.
 
-🌐 Website: ahebard.github.io  
-💼 LinkedIn: linkedin.com/in/ashley-hebard
+🌐 Website: [ahebard.github.io](ahebard.github.io)  
+💼 LinkedIn: [linkedin.com/in/ashley-hebard](linkedin.com/in/ashley-hebard)
